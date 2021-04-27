@@ -1,4 +1,4 @@
-const int VOL_PIN = A0;
+const int VOL_PIN = A1;
 
 void setup(){
     Serial.begin( 9600 );
